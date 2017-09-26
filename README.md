@@ -2,4 +2,4 @@
 
 See [description](https://rudeboybert.github.io/STAT495/#problem_set_3) on course webpage.
 
-Click [here](https://github.com/saraculhane/PS03/blob/master/PS03.html) to view your forked version of `PS03.html`.
+Click [here](http://htmlpreview.github.io/?https://github.com/saraculhane/PS03/blob/master/PS03.html) to view your forked version of `PS03.html`.
