@@ -190,6 +190,6 @@ meanep1 <- mean(ep1)
 meanep2 <- mean(ep2)
 ```
 
-Thus, we have that the $\epsilon$ have means `r meanep1` and `r meanep2` for Data1 and Data2 respectively.
+Thus, we have that the $\sigma$ have means `r sigma1` and `r sigma2` for Data1 and Data2 respectively.
 
 
